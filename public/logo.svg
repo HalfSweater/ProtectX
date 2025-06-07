@@ -1,0 +1,13 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="magentaGradient" x1="0" y1="0" x2="96" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff00cc"/>
+      <stop offset="1" stop-color="#a700ff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="46" fill="#0a0a1a" stroke="url(#magentaGradient)" stroke-width="4"/>
+  <path d="M48 21L75 35V56C75 73 56 80 48 83C40 80 21 73 21 56V35L48 21Z" fill="#18182a" stroke="url(#magentaGradient)" stroke-width="2"/>
+  <text x="48" y="60" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-weight="bold" font-size="32" fill="url(#magentaGradient)" letter-spacing="2">
+    PX
+  </text>
+</svg>
